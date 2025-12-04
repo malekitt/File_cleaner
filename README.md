@@ -1,8 +1,9 @@
 # File_cleaner
 
 ## úvod:
-Tento FileCleaner ti může pomoct s tvými soubory, které sis stáhl do složky Downloads. FileCleaner tyto soubory roztřídí do různých složek. Projekt je domácí úkol pro Coderslab kurz.
-## introduction:
+Tento File_Cleaner ti může pomoct s tvými soubory, které sis stáhl do složky Downloads. FileCleaner tyto soubory roztřídí do různých složek. Projekt je domácí úkol pro Coderslab kurz.
+
+Introduction:
 This file_cleaner can help you with your files, which you downloaded to download folder. The file_cleaner will sort files to different folders. The project is hoework of Coderslab´s course.
 
 ---
